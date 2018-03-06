@@ -1,0 +1,7 @@
+{
+  "utterance": "local",
+  "intent_type": "BalooSearchIntent",
+  "intent": {
+    "LocalSearchKeyword": "search"
+  }
+} 

@@ -1,0 +1,65 @@
+{
+  "audio": [
+    "song",
+    "songs",
+    "music",
+    "audio",
+    "mp3",
+    "wav",
+    "aac",
+    "sound",
+    "sounds"
+  ],
+  "video": [
+    "video",
+    "videos",
+    "movie",
+    "movies"
+    ],
+  "image": [
+    "image",
+    "images",
+    "picture",
+    "pictures"
+    ],
+  "archive": [
+    "archive",
+    "archives"
+    ],
+  "document": [
+    "documents",
+    "document",
+    "pdf",
+    "pdf's",
+    "pdfs",
+    "word file",
+    "word files",
+    "odf",
+    "odfs",
+    "docbook",
+    "docbooks",
+    "ebooks",
+    "ebook"
+    ],
+  "spreadsheet": [
+    "excel",
+    "excel sheets",
+    "workbook",
+    "workbooks",
+    "sheets",
+    "spreadsheet",
+    "spreadsheets"
+    ],
+  "presentation": [
+    "presentations",
+    "presentation"
+    ],
+  "text": [
+    "text",
+    "text files",
+    "text file",
+    "texts",
+    "text documents",
+    "text document"
+    ]
+}
